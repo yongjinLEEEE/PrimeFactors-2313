@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project9", "Project9\Project9.vcxproj", "{805211F1-34F7-4BA6-9B76-501F3AB75187}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "prime-factors_test", "prime-factors_test\prime-factors_test.vcxproj", "{4B95FA16-7B67-49FF-9143-1890B646660C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample-Test1", "prime-factors_test\prime-factors_test.vcxproj", "{4B95FA16-7B67-49FF-9143-1890B646660C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션항목", "솔루션항목", "{D9CC308E-15D5-4164-8B0A-80C337128651}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
